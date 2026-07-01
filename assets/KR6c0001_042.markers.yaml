@@ -1,0 +1,8 @@
+canonical_identifier: bkk:krp/KR6c0001/bkk/v1/markers/42
+seq: 42
+markers:
+  front: []
+  body:
+  - {type: 品, offset: 9, content: 11 譬喻品, id: KR6c0001_T_042-mulu-1, 'n': '11', level: '2'}
+  back: []
+hash: sha256:eefa2e1f3645be1bf455d22d338de6ab9403447bbced78ada0fd59ec8950e86b

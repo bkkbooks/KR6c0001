@@ -4,5 +4,6 @@ markers:
   front: []
   body:
   - {type: 品, offset: 9, content: 10 般若行相品, id: KR6c0001_T_038-mulu-1, 'n': '10', level: '2'}
+  - {type: substitution, offset: 2709, original: 說, replacement: 説, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19811}}
   back: []
-hash: sha256:af1ac4a2a3a436aa6eb47ef5a8e8eb6d656479138ae29b96c5afcea6a8c98ff9
+hash: sha256:71b98177bab47687ea92186aeca7839e29a03d7c35225ef7a6c116e5daf78ee0
